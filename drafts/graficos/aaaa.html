@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en" ng-app="phonecatApp">
+<head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Google Phone Gallery</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/sb-admin.min.css">
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+    <link rel="stylesheet" href="css/app.css">
+  <script src="bower_components/angular/angular.js"></script>
+
+  <script src="js/controllers.js"></script>
+    <script src="http://underscorejs.org/underscore-min.js"></script>
+
+</head>
+<body ng-controller="PhoneListCtrl">
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-2">
+        <!--Sidebar content-->
+
+        Search: <input ng-model="query">
+        Sort by:
+        <select ng-model="orderProp">
+          <option value="name">Alphabetical</option>
+          <option value="age">Newest</option>
+        </select>
+
+
+          <label ng-repeat="tag in tags">
+              <!--<input type="checkbox" ng-model="opa" ng-change="imChanged(opa,tag)"> {{tag.tag}}-->
+              <input type="checkbox" ng-model="opa" ng-change="includeTag(tag.tag)"> {{tag.tag}}
+
+          </label>
+
+      </div>
+        <div>
+      <div  class="col-md-10" ng-repeat="data in programacao | filter:filtro | orderBy:orderProp">
+        <!--Body content-->
+        <ul>
+          <li  class="col-md-2">
+            <!--<a href="#/phones/{{phone.id}}" class="thumb"><img ng-src="{{phone.imageUrl}}"></a>-->
+            <!--<a href="#/phones/{{phone.id}}">{{phone.name}}</a>-->
+            <h3>{{data.data}}</h3>
+              <ul>
+                  <li ng-repeat="banda in data.bandas">
+                      <!--<a href="#/phones/{{phone.id}}" class="thumb"><img ng-src="{{phone.imageUrl}}"></a>-->
+                      <!--<a href="#/phones/{{phone.id}}">{{phone.name}}</a>-->
+                      <p>{{banda}}</p>
+                  </li>
+              </ul>
+
+          </li>
+
+            <div class="col-md-8" bar-chart chart-data="data" id="{{format(data.data)}}">
+                Footer {{ format(data.data) }}
+
+            </div>
+        </ul>
+
+      </div>
+    </div>
+    </div>
+  </div>
+
+</body>
+</html>
