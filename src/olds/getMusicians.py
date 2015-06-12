@@ -1,6 +1,6 @@
 from sys import argv	
 
-programacao = open("programacaoCsv.csv","r")
+programacao = open("../programacao.txt","r")
 
 retorno = ""
 
