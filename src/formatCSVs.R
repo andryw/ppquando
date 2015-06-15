@@ -1,5 +1,5 @@
-#setwd("~/Projects/RaioX-SaoJoao/Dados")
-setwd("~/Downloads/ppquando.github.io-master/src")
+setwd("~/Projects/ppquando/src")
+#setwd("~/Downloads/ppquando.github.io-master/src")
 
 library(reshape)
 prog = read.csv("programacao.csv")

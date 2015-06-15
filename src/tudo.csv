@@ -1,4 +1,5 @@
 data,banda,tag,value
+05/06/15,Biliu de Campina,repente,7
 05/06/15,Biliu de Campina,pé-de-serra,10
 05/06/15,Jairo Madruga,pé-de-serra,10
 05/06/15,Jorge de Altinho,pé-de-serra,10
@@ -6,49 +7,43 @@ data,banda,tag,value
 05/06/15,Luan e Forró Estilizado,forronejo,4
 05/06/15,Luan e Forró Estilizado,eletrônico,10
 05/06/15,Os Três do Nordeste,pé-de-serra,10
-06/06/15,Erika Marques,NA,NA
+06/06/15,Erika Marques,mpb,10
 06/06/15,Flávio José,pé-de-serra,10
-06/06/15,Forró da Curtição,forronejo,5
-06/06/15,Forró da Curtição,eletrônico,10
 06/06/15,Ton Oliveira,pé-de-serra debochado,7
 06/06/15,Ton Oliveira,pé-de-serra,10
 07/06/15,Banda Palov,das antigas,10
-07/06/15,CulédeXá,NA,NA
+07/06/15,Culé de Xá,das antigas,10
+07/06/15,Culé de Xá,pé-de-serra,10
 07/06/15,Felipe Lemos,forronejo,6
 07/06/15,Felipe Lemos,eletrônico,10
 07/06/15,Gabriel Diniz,forronejo,8
 07/06/15,Gabriel Diniz,eletrônico,10
 09/06/15,Eloisa Olinto,mpb,10
-09/06/15,Janine e Banda,pé-de-serra,10
+09/06/15,Lara Amélia,eletrônico,10
 09/06/15,Sandra Belê,pé-de-serra,10
 10/06/15,Forrozão Karkará,eletrônico,10
 10/06/15,Galã do Brega,forronejo,8
 10/06/15,Galã do Brega,eletrônico,10
-10/06/15,Ramon Schinayder,forronejo,8
-10/06/15,Ramon Schinayder,eletrônico,10
+10/06/15,Ramon Schnayder,forronejo,8
+10/06/15,Ramon Schnayder,eletrônico,10
 11/06/15,Assisão,pé-de-serra,10
-11/06/15,Banda Encantus,romântico,8
-11/06/15,Banda Encantus,das antigas,10
-11/06/15,Jurandir da Feira,NA,NA
-12/06/15,AlexandreTan,mpb,10
-12/06/15,Forró do Bom,arrocha,7
-12/06/15,Forró do Bom,eletrônico,8
-12/06/15,Forró do Bom,sofrência,10
-12/06/15,Forró dos Namorados,NA,NA
-12/06/15,Geovane Júnior,NA,NA
-12/06/15,Os Nonatos,romântico ,7
+11/06/15,Cavaleiros do Forró,das antigas,7
+11/06/15,Cavaleiros do Forró,eletrônico,10
+11/06/15,Jurandir da Feira,pé-de-serra,10
+11/06/15,Vinícius e Sobral,sertanejo,10
+12/06/15,Alexandre Tan,mpb,10
+12/06/15,Geovane Júnior,pé-de-serra,10
 12/06/15,Os Nonatos,sertanejo raiz,7
-13/06/15,Capilé,eletrônico,5
+12/06/15,Os Nonatos,romântico,7
 13/06/15,Capilé,pé-de-serra,5
+13/06/15,Capilé,eletrônico,5
 13/06/15,Coronel Grilo,pé-de-serra,10
 13/06/15,Forró Bakana,eletrônico,10
 13/06/15,João Marcelo e Juliano,sertanejo,10
 13/06/15,Os 3 do nordeste,pé-de-serra,10
-14/06/15,Diogo Cirne,NA,NA
+14/06/15,Diogo Cirne,eletrônico,10
 14/06/15,Dorgival Dantas,romântico,10
-14/06/15,Edgley Miguel,NA,NA
-14/06/15,Magníficos,romântico,6
-14/06/15,Magníficos,das antigas,10
+14/06/15,Edgley Miguel,pé-de-serra,10
 16/06/15,Coco Seco,eletrônico,10
 16/06/15,Forró Instigação,eletrônico,10
 16/06/15,Impacto X,eletrônico,7
@@ -57,91 +52,97 @@ data,banda,tag,value
 17/06/15,Afrodite,das antigas,10
 17/06/15,Aviões do Forró,forronejo,5
 17/06/15,Aviões do Forró,eletrônico,10
-17/06/15,Fabiano Guimarães,NA,NA
+17/06/15,Fabiano Guimarães,pé-de-serra,10
 17/06/15,Forró da Galera,eletrônico,10
 18/06/15,Bonde do Brasil,arrocha,8
 18/06/15,Bonde do Brasil,sofrência,10
-18/06/15,Cicinho Lima,NA,NA
-18/06/15,Dannys Paraíba,NA,NA
+18/06/15,Cicinho Lima,eletrônico,10
 18/06/15,Raniere Gomes,pé-de-serra,7
 19/06/15,Amazan,pé-de-serra debochado,7
 19/06/15,Amazan,pé-de-serra,10
-19/06/15,Forró do Imperador,forronejo,6
-19/06/15,Forró do Imperador,eletrônico,10
+19/06/15,Iohannes e Forró do Imperador,forronejo,6
+19/06/15,Iohannes e Forró do Imperador,eletrônico,10
 19/06/15,Nando Cordel,pé-de-serra,10
 19/06/15,Poeta Francinaldo,pé-de-serra,10
-20/06/15,Alceu Valença,mpb,10
-20/06/15,Eliane,das antigas,7
-20/06/15,Eliane,romântico,10
+20/06/15,Forró do Chefe,eletrônico,10
 20/06/15,Genival Lacerda,pé-de-serra,10
+20/06/15,Os Gonzagas,pé-de-serra,10
 20/06/15,Pinto do Acordeon,pé-de-serra,10
-20/06/15,Saia Justa,eletrônico,10
 21/06/15,Forró da Barka,eletrônico,10
+21/06/15,GG e Banda Forró do Gordinho,eletrônico,7
+21/06/15,GG e Banda Forró do Gordinho,forronejo,10
 21/06/15,Joverlaine e Mania de Sertanejo,forronejo,10
-21/06/15,Maciel Melo,romântico,8
-21/06/15,Maciel Melo,pé-de-serra,10
-21/06/15,Novinho da Paraíba,NA,NA
-22/06/15,Beto Brito,NA,NA
-22/06/15,Luisinho Cartaxo,NA,NA
-22/06/15,Orquestra Sanfônica Balaio Nordeste,NA,NA
+21/06/15,Novinho da Paraíba,pé-de-serra,10
+22/06/15,Beto Brito,maracatu,7
+22/06/15,Beto Brito,mpb,10
+22/06/15,Luizinho Calixto,pé-de-serra,10
+22/06/15,Orquestra Sanfônica Balaio Nordeste,orquestra,10
+22/06/15,Orquestra Sanfônica Balaio Nordeste,pé-de-serra,10
 22/06/15,Tribo Cordel,forro universtiário,10
 23/06/15,Antônio Barros e Cecéu,pé-de-serra,10
-23/06/15,Capilé,eletrônico,5
 23/06/15,Capilé,pé-de-serra,5
-23/06/15,Elba Ramalho,NA,NA
-23/06/15,Tony Dumond,NA,NA
-24/06/15,Bibliu de Campina,repente,7
-24/06/15,Bibliu de Campina,pé-de-serra,10
-24/06/15,Chico Sales,NA,NA
-24/06/15,Mara Pavanelly,forronejo ,7
-24/06/15,Mara Pavanelly,romântico ,7
+23/06/15,Capilé,eletrônico,5
+23/06/15,Elba Ramalho,pé-de-serra,8
+23/06/15,Elba Ramalho,mpb,10
+23/06/15,Tony Dumond,mpb,5
+23/06/15,Tony Dumond,pé-de-serra,10
+24/06/15,Biliu de Campina,repente,7
+24/06/15,Biliu de Campina,pé-de-serra,10
+24/06/15,Chico Sales,pé-de-serra,5
+24/06/15,Chico Sales,mpb,10
+24/06/15,Mara Pavanelly,romântico,7
+24/06/15,Mara Pavanelly,forronejo,7
 24/06/15,Mara Pavanelly,eletrônico,9
-24/06/15,Zé Ramalho,NA,NA
+24/06/15,Saia Justa,eletrônico,10
 25/06/15,Banda Magia,das antigas,7
 25/06/15,Netinho Lima,NA,NA
-25/06/15,Os Gonzagas,xoté,9
-25/06/15,Os Gonzagas,pé-de-serra,10
-25/06/15,Zé Calixto,NA,NA
-26/06/15,Edmar Miguel,NA,NA
-26/06/15,Esporada Ouro,NA,NA
-26/06/15,Lucy Alves,pé-de-serra,10
-26/06/15,Marcos Freire e Banda,NA,NA
-27/06/15,Cavalo de Pau,romântico ,5
-27/06/15,Cavalo de Pau,das antigas,10
-27/06/15,Cezinha,NA,NA
-27/06/15,João Lima,NA,NA
-27/06/15,Renata Arruda,NA,NA
-27/06/15,Shilton Fernandes,NA,NA
-28/06/15,Forró Sacaneado,eletrônico,10
-28/06/15,Niedson Lua,pé-de-serra,7
-28/06/15,Niedson Lua,romântico ,10
-28/06/15,Solteirões do Forró,forronejo ,5
+25/06/15,Zé Calixto,pé-de-serra,10
+26/06/15,Candeeiro Natural,pé-de-serra,3
+26/06/15,Candeeiro Natural,forro universtiário,7
+26/06/15,Candeeiro Natural,mpb,10
+26/06/15,Edmar Miguel,pé-de-serra,10
+26/06/15,Espora de Ouro,forró de vaquejada,10
+27/06/15,Banda Encantus,romântico,8
+27/06/15,Banda Encantus,das antigas,10
+27/06/15,Forró Sacaneado,eletrônico,10
+27/06/15,João Lima,forronejo,5
+27/06/15,João Lima,eletrônico,10
+27/06/15,Shilton Fernandes,forronejo,5
+27/06/15,Shilton Fernandes,eletrônico,10
+28/06/15,Alceu Valença,mpb,10
+28/06/15,Renata Arruda,mpb,10
+28/06/15,Solteirões do Forró,forronejo,5
 28/06/15,Solteirões do Forró,eletrônico,10
-29/06/15,Forró Quente,NA,NA
-29/06/15,Forrozão das Antigas,romântico ,7
+29/06/15,Chambinho,pé-de-serra,10
+29/06/15,Coco Seco,eletrônico,10
+29/06/15,Forrozão das Antigas,romântico,7
 29/06/15,Forrozão das Antigas,das antigas,10
-29/06/15,Gatinha Manhosa,romântico ,10
-29/06/15,Gente Boa,NA,NA
+29/06/15,Gente Boa,pé-de-serra,10
+30/06/15,Helena Holanda,NA,NA
 30/06/15,Padre Fábio de Melo,religioso,10
-30/06/15,ProjetoAcreditar-CAE Helena Holanda,NA,NA
-01/07/15,Desejo de Menina,romântico ,10
-01/07/15,Forró da Galera,eletrônico,10
-01/07/15,Forró do Eskulaxo,eletrônico,10
-01/07/15,Matheus Felipe e Forró Ousado,NA,NA
-02/07/15,Cabruêra,Maracatu,7
-02/07/15,Cabruêra,Rock,7
-02/07/15,Candeeiro Natural,NA,NA
-02/07/15,Vatese Viola,NA,NA
-03/07/15,Coleguinhas,NA,NA
-03/07/15,Edra Veras,NA,NA
+01/07/15,Bruno Melo,eletrônico,10
+01/07/15,Desejo de Menina,romântico,10
+01/07/15,Marcos Freire e Banda,religioso,10
+01/07/15,Matheus Felipe e Forró Ousado,forronejo,5
+01/07/15,Matheus Felipe e Forró Ousado,eletrônico,10
+02/07/15,Cabruêra,rock,7
+02/07/15,Cabruêra,maracatu,7
+02/07/15,Magníficos,romântico,6
+02/07/15,Magníficos,das antigas,10
+02/07/15,Vates e Viola,pé-de-serra,7
+02/07/15,Vates e Viola,mpb,10
+03/07/15,Coleguinhas,forronejo,5
+03/07/15,Coleguinhas,romântico,5
+03/07/15,Coleguinhas,eletrônico,10
+03/07/15,Edra Veras,forronejo,7
+03/07/15,Edra Veras,eletrônico,10
 03/07/15,Geraldinho Lins,pé-de-serra,10
-03/07/15,Inaudete Amorim,NA,NA
+03/07/15,Inaudete Amorim,pé-de-serra,10
 04/07/15,Coroné Grilo,pé-de-serra,10
 04/07/15,Forró Zueira,eletrônico,10
 04/07/15,Saia Rodada,eletrônico,10
 04/07/15,Waldonys,pé-de-serra,10
-05/07/15,Banda Forró do Gordinho,NA,NA
 05/07/15,Forró na Manha,eletrônico,10
-05/07/15,Garota Safada,forronejo ,5
+05/07/15,Garota Safada,forronejo,5
 05/07/15,Garota Safada,eletrônico,10
 05/07/15,Raiane Stthefanny,eletrônico,10

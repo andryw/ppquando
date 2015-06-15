@@ -19,25 +19,24 @@ Biliu de Campina,pé-de-serra,10
 Biliu de Campina,repente,7
 Bonde do Brasil,sofrência,10
 Bonde do Brasil,arrocha,8
-Cabruêra,Maracatu,7
-Cabruêra,Rock,7
+Cabruêra,maracatu,7
+Cabruêra,rock,7
 Capilé,pé-de-serra,5
 Capilé,eletrônico,5
-Cicinho Lima,eletrônico ,10
+Cicinho Lima,eletrônico,10
 Coco Seco,eletrônico,10
-Coleguinhas,eletrônico ,10
-Coleguinhas,romantico,5
-Coleguinhas,forronejo ,5
+Coleguinhas,eletrônico,10
+Coleguinhas,romântico,5
+Coleguinhas,forronejo,5
 Coroné Grilo,pé-de-serra,10
 Coronel Grilo,pé-de-serra,10
 Culé de Xá,pé-de-serra,10
 Culé de Xá,das antigas,10
-Desejo de Menina,romântico ,10
+Desejo de Menina,romântico,10
 Dorgival Dantas,romântico,10
 Edgley Miguel,pé-de-serra,10
 Elba Ramalho,mpb,10
 Elba Ramalho,pé-de-serra,8
-Eliane,das antigas,7
 Eloisa Olinto,mpb,10
 Espora de Ouro,forró de vaquejada,10
 Fabiano Guimarães,pé-de-serra,10
@@ -45,22 +44,21 @@ Felipe Lemos,eletrônico,10
 Felipe Lemos,forronejo,6
 Flávio José,pé-de-serra,10
 Forró Bakana,eletrônico,10
-Forró da Barka,"
-eletrônico",10
+Forró da Barka,eletrônico,10
 Forró da Galera,eletrônico,10
 Forró Instigação,eletrônico,10
 Forró na Manha,eletrônico,10
-Forró Sacaneado,eletrônico ,10
+Forró Sacaneado,eletrônico,10
 Forró Zueira,eletrônico,10
 Forrozão das Antigas,das antigas,10
-Forrozão das Antigas,romântico ,7
+Forrozão das Antigas,romântico,7
 Forrozão Karkará,eletrônico,10
 Gabriel Diniz,eletrônico,10
 Gabriel Diniz,forronejo,8
 Galã do Brega,eletrônico,10
 Galã do Brega,forronejo,8
 Garota Safada,eletrônico,10
-Garota Safada,forronejo ,5
+Garota Safada,forronejo,5
 Genival Lacerda,pé-de-serra,10
 Geraldinho Lins,pé-de-serra,10
 Impacto X,das antigas,7
@@ -69,8 +67,8 @@ Inaudete Amorim,pé-de-serra,10
 Iohannes e Forró do Imperador,eletrônico,10
 Iohannes e Forró do Imperador,forronejo,6
 Jairo Madruga,pé-de-serra,10
-João Lima,eletrônico ,10
-João Lima,forronejo ,5
+João Lima,eletrônico,10
+João Lima,forronejo,5
 João Marcelo e Juliano,sertanejo,10
 Jorge de Altinho,pé-de-serra,10
 Joverlaine e Mania de Sertanejo,forronejo,10
@@ -78,36 +76,34 @@ Jurandir da Feira,pé-de-serra,10
 Luan e Forró Estilizado,pé-de-serra,4
 Luan e Forró Estilizado,eletrônico,10
 Luan e Forró Estilizado,forronejo,4
-Luisinho Calixto,pé-de-serra,10
+Luizinho Calixto,pé-de-serra,10
 Magníficos,das antigas,10
 Magníficos,romântico,6
-Mara Pavanelly,forronejo ,7
-Mara Pavanelly,eletrônico ,9
-Mara Pavanelly,romântico ,7
-Matheus Felipe e Forró Ousado,eletrônico ,10
-Matheus Felipe e Forró Ousado,forronejo ,5
+Mara Pavanelly,forronejo,7
+Mara Pavanelly,eletrônico,9
+Mara Pavanelly,romântico,7
+Matheus Felipe e Forró Ousado,eletrônico,10
+Matheus Felipe e Forró Ousado,forronejo,5
 Nando Cordel,pé-de-serra,10
 Os 3 do nordeste,pé-de-serra,10
 Os Gonzagas,pé-de-serra,10
-Os Gonzagas,xoté,9
-Os Nonatos,romântico ,7
+Os Nonatos,romântico,7
 Os Nonatos,sertanejo raiz,7
 Os Três do Nordeste,pé-de-serra,10
 Padre Fábio de Melo,religioso,10
 Pinto do Acordeon,pé-de-serra,10
 Poeta Francinaldo,pé-de-serra,10
-Raiane Stthefanny,eletrônico ,10
+Raiane Stthefanny,eletrônico,10
 Ramon Schnayder,eletrônico,10
 Ramon Schnayder,forronejo,8
 Raniere Gomes,pé-de-serra,7
-Saia Justa,"
-eletrônico",10
+Saia Justa,eletrônico,10
 Saia Rodada,eletrônico,10
 Sandra Belê,pé-de-serra,10
-Shilton Fernandes,eletrônico ,10
-Shilton Fernandes,forronejo ,5
-Solteirões do Forró,eletrônico ,10
-Solteirões do Forró,forronejo ,5
+Shilton Fernandes,eletrônico,10
+Shilton Fernandes,forronejo,5
+Solteirões do Forró,eletrônico,10
+Solteirões do Forró,forronejo,5
 Ton Oliveira,pé-de-serra,10
 Ton Oliveira,pé-de-serra debochado,7
 Tony Dumond,pé-de-serra,10
@@ -115,3 +111,31 @@ Tony Dumond,mpb,5
 Tribo Cordel,forro universtiário,10
 Waldonys,pé-de-serra,10
 Zé Calixto,pé-de-serra,10
+Vinícius e Sobral,sertanejo,10
+Forró do Chefe,eletrônico,10
+Candeeiro Natural,mpb,10
+Candeeiro Natural,pé-de-serra,3
+Candeeiro Natural,forro universtiário,7
+Chico Sales,mpb,10
+Chico Sales,pé-de-serra,5
+Diogo Cirne,eletrônico,10
+Edmar Miguel,pé-de-serra,10
+Edra Veras,eletrônico,10
+Edra Veras,forronejo,7
+Erika Marques,mpb,10
+Gente Boa,pé-de-serra,10
+Geovane Júnior,pé-de-serra,10
+Marcos Freire e Banda,religioso,10
+Novinho da Paraíba,pé-de-serra,10
+Orquestra Sanfônica Balaio Nordeste,pé-de-serra,10
+Orquestra Sanfônica Balaio Nordeste,orquestra,10
+Renata Arruda,mpb,10
+Vates e Viola,mpb,10
+Vates e Viola,pé-de-serra,7
+Bruno Melo,eletrônico,10
+Cavaleiros do Forró,eletrônico,10
+Cavaleiros do Forró,das antigas,7
+Chambinho,pé-de-serra,10
+Lara Amélia,eletrônico,10
+GG e Banda Forró do Gordinho,forronejo,10
+GG e Banda Forró do Gordinho,eletrônico,7

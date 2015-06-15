@@ -11,6 +11,80 @@ data,banda
 07/06/15,Felipe Lemos
 07/06/15,Gabriel Diniz
 07/06/15,Banda Palov
+09/06/15,Eloisa Olinto
+09/06/15,Sandra Belê
+09/06/15,Lara Amélia
+10/06/15,Forrozão Karkará
+10/06/15,Galã do Brega
+10/06/15,Ramon Schnayder
+11/06/15,Jurandir da Feira
+11/06/15,Assisão
+11/06/15,Vinícius e Sobral
+11/06/15,Cavaleiros do Forró
+12/06/15,Geovane Júnior
+12/06/15,Os Nonatos
+12/06/15,Alexandre Tan
+13/06/15,Os 3 do nordeste
+13/06/15,Capilé
+13/06/15,Coronel Grilo
+13/06/15,Forró Bakana
+13/06/15,João Marcelo e Juliano
+14/06/15,Edgley Miguel
+14/06/15,Dorgival Dantas
+14/06/15,Diogo Cirne
+16/06/15,Impacto X
+16/06/15,Coco Seco
+16/06/15,Forró Instigação
+17/06/15,Forró da Galera
+17/06/15,Afrodite
+17/06/15,Fabiano Guimarães
+17/06/15,Aviões do Forró
+18/06/15,Cicinho Lima
+18/06/15,Raniere Gomes
+18/06/15,Bonde do Brasil
+19/06/15,Poeta Francinaldo
+19/06/15,Iohannes e Forró do Imperador
+19/06/15,Amazan
+19/06/15,Nando Cordel
+20/06/15,Os Gonzagas
+20/06/15,Pinto do Acordeon
+20/06/15,Genival Lacerda
+20/06/15,Forró do Chefe
+21/06/15,Forró da Barka
+21/06/15,Novinho da Paraíba
+21/06/15,Joverlaine e Mania de Sertanejo
+21/06/15,GG e Banda Forró do Gordinho
+22/06/15,Tribo Cordel
+22/06/15,Beto Brito
+22/06/15,Orquestra Sanfônica Balaio Nordeste
+22/06/15,Luizinho Calixto
+23/06/15,Antônio Barros e Cecéu
+23/06/15,Tony Dumond
+23/06/15,Capilé
+23/06/15,Elba Ramalho
+24/06/15,Chico Sales
+24/06/15,Biliu de Campina
+24/06/15,Saia Justa
+24/06/15,Mara Pavanelly
+25/06/15,Zé Calixto
+25/06/15,Banda Magia
+25/06/15,Netinho Lima
+26/06/15,Edmar Miguel
+26/06/15,Espora de Ouro
+26/06/15,Candeeiro Natural
+27/06/15,Forró Sacaneado
+27/06/15,Banda Encantus
+27/06/15,Shilton Fernandes
+27/06/15,João Lima
+28/06/15,Solteirões do Forró
+28/06/15,Alceu Valença
+28/06/15,Renata Arruda
+29/06/15,Coco Seco
+29/06/15,Chambinho
+29/06/15,Gente Boa
+29/06/15,Forrozão das Antigas
+30/06/15,Padre Fábio de Melo
+30/06/15,Helena Holanda
 01/07/15,Marcos Freire e Banda
 01/07/15,Matheus Felipe e Forró Ousado
 01/07/15,Bruno Melo
@@ -29,77 +103,3 @@ data,banda
 05/07/15,Garota Safada
 05/07/15,Forró na Manha
 05/07/15,Raiane Stthefanny
-09/07/15,Eloisa Olinto
-09/07/15,Sandra Belê
-09/07/15,Lara Amélia
-10/07/15,Forrozão Karkará
-10/07/15,Galã do Brega
-10/07/15,Ramon Schnayder
-11/07/15,Jurandir da Feira
-11/07/15,Assisão
-11/07/15,Vinícius e Sobral
-11/07/15,Cavaleiros do Forró
-12/07/15,Geovane Júnior
-12/07/15,Os Nonatos
-12/07/15,Alexandre Tan
-13/07/15,Os 3 do nordeste
-13/07/15,Capilé
-13/07/15,Coronel Grilo
-13/07/15,Forró Bakana
-13/07/15,João Marcelo e Juliano
-14/07/15,Edgley Miguel
-14/07/15,Dorgival Dantas
-14/07/15,Diogo Cirne
-16/07/15,Impacto X
-16/07/15,Coco Seco
-16/07/15,Forró Instigação
-17/07/15,Forró da Galera
-17/07/15,Afrodite
-17/07/15,Fabiano Guimarães
-17/07/15,Aviões do Forró
-18/07/15,Cicinho Lima
-18/07/15,Raniere Gomes
-18/07/15,Bonde do Brasil
-19/07/15,Poeta Francinaldo
-19/07/15,Iohannes e Forró do Imperador
-19/07/15,Amazan
-19/07/15,Nando Cordel
-20/07/15,Os Gonzagas
-20/07/15,Pinto do Acordeon
-20/07/15,Genival Lacerda
-20/07/15,Forró do Chefe
-21/07/15,Forró da Barka
-21/07/15,Novinho da Paraíba
-21/07/15,Joverlaine e Mania de Sertanejo
-21/07/15,GG e Banda Forró do Gordinho
-22/07/15,Tribo Cordel
-22/07/15,Beto Brito
-22/07/15,Orquestra Sanfônica Balaio Nordeste
-22/07/15,Luizinho Calixto
-23/07/15,Antônio Barros e Cecéu
-23/07/15,Tony Dumond
-23/07/15,Capilé
-23/07/15,Elba Ramalho
-24/07/15,Chico Sales
-24/07/15,Biliu de Campina
-24/07/15,Saia Justa
-24/07/15,Mara Pavanelly
-25/07/15,Zé Calixto
-25/07/15,Banda Magia
-25/07/15,Netinho Lima
-26/07/15,Edmar Miguel
-26/07/15,Espora de Ouro
-26/07/15,Candeeiro Natural
-27/07/15,Forró Sacaneado
-27/07/15,Banda Encantus
-27/07/15,Shilton Fernandes
-27/07/15,João Lima
-28/07/15,Solteirões do Forró
-28/07/15,Alceu Valença
-28/07/15,Renata Arruda
-29/07/15,Coco Seco
-29/07/15,Chambinho
-29/07/15,Gente Boa
-29/07/15,Forrozão das Antigas
-30/07/15,Padre Fábio de Melo
-30/07/15,Helena Holanda

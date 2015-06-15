@@ -5,15 +5,15 @@ from datetime import datetime
 
 #var d = new MongoInternals.RemoteCollectionDriver("mongodb://andryw:4n4lytics@ds033607.mongolab.com:33607/raiox-sj");
 #Bandas = new Mongo.Collection("banda_tag", { _driver: d });
-uri = "mongodb://andryw:4n4lytics@ds033607.mongolab.com:33607/raiox-sj"
-client = MongoClient(uri)
+# uri = "mongodb://andryw:4n4lytics@ds033607.mongolab.com:33607/raiox-sj"
+# client = MongoClient(uri)
 #client = MongoClient('ds033607.mongolab.com', 33607)
-db = client['raiox-sj']
-prog = db.bandas
+# db = client['raiox-sj']
+# prog = db.bandas
 ##################CRIAR COLECAO, SE NAO EXISTER
 #db.create_collection("bandas2")
-bandas2 = db.bandas2
-bandas2.remove({})
+# bandas2 = db.bandas2
+# bandas2.remove({})
 def sort_date(date_list):
     temp = []
     for i in date_list:
@@ -24,8 +24,8 @@ def sort_date(date_list):
         retorno.append(i.strftime('%d/%m/%y'))
     return retorno
 
-print bandas2.find_one()
-print db.collection_names(include_system_collections=False)
+# print bandas2.find_one()
+# print db.collection_names(include_system_collections=False)
 with codecs.open('tudo.json', encoding='utf-8-sig') as data_file:
     dados = json.load(data_file)
     all = []
